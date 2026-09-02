@@ -113,4 +113,4 @@ notebooks/
   03_hyperparameter_tuning.ipynb  Optuna, grid and random search
 ```
 
-Python, Selenium, BeautifulSoup, pandas, NumPy, scikit-learn, XGBoost, Optuna.
+The notebooks use Python, Selenium, BeautifulSoup, pandas, NumPy, scikit-learn, XGBoost and Optuna.
