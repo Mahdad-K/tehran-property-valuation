@@ -1,6 +1,6 @@
 # Tehran Property Valuation
 
-Predicting residential price per square metre in Tehran from public listings.
+An automated valuation model (AVM) for residential property in Tehran, built from public listings.
 
 Three notebooks: a scraper that builds the dataset, an XGBoost model, and a hyperparameter study.
 
